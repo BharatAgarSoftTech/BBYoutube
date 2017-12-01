@@ -1,0 +1,16 @@
+PODS:
+  - BBYoutube (0.1.0)
+
+DEPENDENCIES:
+  - BBYoutube (from `../`)
+
+EXTERNAL SOURCES:
+  BBYoutube:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BBYoutube: c939c776e1f73343de2abd3735475ce63b1d089a
+
+PODFILE CHECKSUM: 765c0a3056ff8a386b7a49abbbc72015fe288224
+
+COCOAPODS: 1.2.1
