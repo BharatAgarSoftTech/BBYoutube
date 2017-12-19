@@ -16,7 +16,7 @@ s.summary          = "YouTube video player for iOS and OS X."
 s.homepage         = 'https://github.com/BharatAgarSoftTech/BBYoutube'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'BharatAgarSoftTech' => 'bharat@codemaya.com' }
-s.source           = { :git => 'https://github.com/BharatAgarSoftTech/BBYoutube.git', :tag => s.version.to_s }
+s.source           = { :git => 'https://github.com/BharatAgarSoftTech/BBYoutube.git', :tag => 0.1 }
 s.ios.deployment_target  = "8.0"
 s.source_files           = 'BBYoutube/Classes/**/*'
 s.ios.frameworks         = "JavaScriptCore", "MediaPlayer"
