@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 s.name             = "BBYoutube"
-s.version          = '0.1.0'
+s.version          = '0.1.1'
 s.summary          = "YouTube video player for iOS and OS X."
 s.homepage         = 'https://github.com/BharatAgarSoftTech/BBYoutube'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
